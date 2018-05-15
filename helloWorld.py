@@ -1,2 +1,3 @@
 print("This line will be printed.")
-print("worked")
+print("hello")
+print("world")
